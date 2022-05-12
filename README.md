@@ -1,6 +1,8 @@
 # glicowatch
 
-A new Flutter project.
+GlicoWatch é uma aplicação em fase de desenvolvimento, por hora não conta com muitas telas, ele é um modelo de estudo do DART e Flutter.
+
+
 
 ## Getting Started
 
